@@ -1,0 +1,23 @@
+body
+{
+	background-color: #90EE90	 ;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#mainnavbar .navbar-brand
+{
+	color: #00FF00;
+	font-size: 1.5rem;
+	font-weight: bold; 
+}
+
+#mainnavbar .nav-link
+{
+	color: white;
+}
+
+
+#mainnavbar .nav-link:hover
+{
+	color: #90EE90;
+}
